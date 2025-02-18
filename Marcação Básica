@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UFT-8" />
+        <title> Meu primeiro site </title>
+        <link real="stylesheet" href="stylr.css"/>
+    </head>
+    <body>
+        <h1> Título Grandão</h1>
+        <h2>Sou um subtítulo</h2>
+        <p>Ola, mundo</p>
+        <img src="./tiger.png" alt="">
+        <footer>Copyright 2025. Todos os direitos reservados.</footer>
+    </body>
+</html>

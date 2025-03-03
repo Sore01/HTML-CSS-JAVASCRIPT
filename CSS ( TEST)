@@ -1,0 +1,17 @@
+/* Exemplo de estilo básico para o cabeçalho */
+header {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  header p {
+    font-size: 18px;
+    color: #555;
+  }
+  
